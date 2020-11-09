@@ -5,5 +5,5 @@
 ##### ini header 5
 ###### ini header 6
 
-*ini italic*
-_ini juga italic_
+*ini italic*. 
+_ini juga italic_. 
