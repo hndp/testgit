@@ -7,4 +7,6 @@
 
 *ini italic*  
 _ini juga italic_  
-
+**ini bold**  
+__ini juga bold__  
+_ini **kombinasi** guys_
