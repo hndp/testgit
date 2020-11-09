@@ -10,3 +10,13 @@ _ini juga italic_
 **ini bold**  
 __ini juga bold__  
 _ini **kombinasi** guys_
+
+* ini bullet list 1  
+* ini bullet list 2  
+  * ini sublist 2
+  
+  1. ini list nomor 1
+  2. ini list nomor 2
+  
+  [ini link google] (https://www.google.com/)
+  ![ini gambar] (https://miro.medium.com/max/1264/1*4ll2z6aW2e08HqQGnwoDuQ.jpeg)
