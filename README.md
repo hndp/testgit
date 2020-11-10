@@ -20,3 +20,14 @@ _ini **kombinasi** guys_
   
   [ini link google] (https://www.google.com/)  
   ![ini gambar] (https://miro.medium.com/max/1264/1*4ll2z6aW2e08HqQGnwoDuQ.jpeg)  
+  
+  > ini quotes
+  
+  ini code 'import math'
+  
+  ini barisan code
+  
+  ...
+  x=0
+  y=0
+  ...
