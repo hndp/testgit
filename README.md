@@ -19,7 +19,7 @@ _ini **kombinasi** guys_
   2. ini list nomor 2
   
   [ini link google] (https://www.google.com/)  
-  ![ini gambar] (https://miro.medium.com/max/1264/1*4ll2z6aW2e08HqQGnwoDuQ.jpeg)  
+  ![ini gambar](https://miro.medium.com/max/1264/1*4ll2z6aW2e08HqQGnwoDuQ.jpeg)  
   
   > ini quotes
   
@@ -28,6 +28,6 @@ _ini **kombinasi** guys_
   ini barisan code
   
   ...
-  x=0
-  y=0
+  x=0  
+  y=0  
   ...
