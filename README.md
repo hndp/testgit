@@ -18,7 +18,7 @@ _ini **kombinasi** guys_
   1. ini list nomor 1
   2. ini list nomor 2
   
-  [ini link google] (https://www.google.com/)  
+  [ini link google](https://www.google.com/)  
   ![ini gambar](https://miro.medium.com/max/1264/1*4ll2z6aW2e08HqQGnwoDuQ.jpeg)  
   
   > ini quotes
